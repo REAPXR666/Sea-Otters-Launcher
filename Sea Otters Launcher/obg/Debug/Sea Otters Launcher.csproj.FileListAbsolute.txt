@@ -1,0 +1,45 @@
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Sea Otters Launcher.exe.config
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Sea Otters Launcher.exe
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Sea Otters Launcher.pdb
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.csproj.AssemblyReference.cache
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.csproj.SuggestedBindingRedirects.cache
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea_Otters_Launcher.Form1.resources
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea_Otters_Launcher.Properties.Resources.resources
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.csproj.GenerateResource.cache
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.csproj.CoreCompileInputs.cache
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.csproj.CopyComplete
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.exe
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.pdb
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\RestSharp.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Buffers.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.CodeDom.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Data.Odbc.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Data.OleDb.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Data.SqlClient.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Drawing.Common.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.IO.Packaging.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.IO.Ports.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Memory.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Numerics.Vectors.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.AccessControl.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.Permissions.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Security.Principal.Windows.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\bin\Debug\System.Threading.AccessControl.xml
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.exe.licenses
+D:\Samples App\Sea Otters Launcher\Sea Otters Launcher\obj\Debug\Sea Otters Launcher.csproj.Fody.CopyLocal.cache
