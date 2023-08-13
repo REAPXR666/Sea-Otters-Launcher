@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sea Otters Launcher", "Sea Otters Launcher\Sea Otters Launcher.csproj", "{EEBDF7A0-A6FC-42EC-B2D2-29A04F37F38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEBDF7A0-A6FC-42EC-B2D2-29A04F37F38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBDF7A0-A6FC-42EC-B2D2-29A04F37F38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBDF7A0-A6FC-42EC-B2D2-29A04F37F38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBDF7A0-A6FC-42EC-B2D2-29A04F37F38B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6F0339-FF74-446E-9F65-689B04CE6529}
+	EndGlobalSection
+EndGlobal
