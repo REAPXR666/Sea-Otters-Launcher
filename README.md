@@ -7,6 +7,5 @@ I was asked to make the launcher for the game developer themself to release to t
 Daily message of the day sync on the app.
 Latest News
 InGame Store (IN PROGRESS)
-Game Files (LEAKED THROUGH THIS APP IG)
 
-The Game Dev (PLZ RAID/SPAM): bookie_jonezzz#3792
+The Game Dev: bookie_jonezzz#3792
